@@ -1,0 +1,6 @@
+name=ESRI Geocoder
+description=Geocoder plugin using the ESRI geocoding service
+core=7.x
+dependencies[] = ctools
+dependencies[] = geocoder
+dependencies[] = geophp
