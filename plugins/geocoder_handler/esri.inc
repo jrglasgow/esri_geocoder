@@ -23,7 +23,7 @@ $plugin = array(
 /**
  * Process Markup
  */
-function geocoder_esri($address, $options = array()) {dpm($address, '$address');
+function geocoder_esri($address, $options = array()) {
   try {
     geophp_load();
 
